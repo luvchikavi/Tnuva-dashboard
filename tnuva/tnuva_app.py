@@ -140,7 +140,7 @@ if not st.session_state.start:
 
         ---
 
-        About Oporto-Carbon 
+        Oporto-Carbon 
         Oporto Carbon specializes in sustainability consulting and carbon management solutions. 
         With a proven track record of helping organizations achieve their ESG goals, Oporto Carbon is 
         a trusted partner for businesses navigating the complexities of climate change and regulatory compliance.
