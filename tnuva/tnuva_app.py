@@ -144,7 +144,7 @@ if not st.session_state.start:
         Oporto Carbon specializes in sustainability consulting and carbon management solutions. 
         With a proven track record of helping organizations achieve their ESG goals, Oporto Carbon is 
         a trusted partner for businesses navigating the complexities of climate change and regulatory compliance.
-        ---
+        
         Dr. Avi Luvchik  
         Avi is an internationally recognized expert in sustainability and environmental compliance. With over 
         20 years of experience, he has advised top organizations across various industries. His expertise spans life cycle 
