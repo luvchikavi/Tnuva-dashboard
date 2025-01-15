@@ -1,0 +1,6 @@
+Business Unit,Scope 1 Emissions (MT CO2e),Scope 2 Emissions (MT CO2e),Scope 3 Emissions (MT CO2e),Electricity Consumption (MWh),Fuels Consumption (Liters),Direct Emissions (MT CO2e),Indirect Emissions (MT CO2e),Supply Chain Emissions (MT CO2e)
+Dairy,10000,3000,50000,20000,50000,5000,7000,35000
+Meat,8000,2500,45000,15000,60000,3000,4000,30000
+Plant-Based,5000,1500,30000,10000,20000,2500,2800,20000
+Beverages,6000,1800,35000,12000,30000,2800,3200,25000
+Snacks,4000,1200,20000,8000,25000,2000,2200,15000
